@@ -18,7 +18,6 @@ Analyze the Titanic dataset using summary statistics and visualizations to ident
 - Histograms
 - Boxplots
 - Correlation heatmap
-- Pairplot
 - Countplots
 - Feature-level observations
 
